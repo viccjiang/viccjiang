@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 - ⚡ My favourite hobby is leather design
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viccjiang&layout=compact&theme=vue-dark)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viccjiang&layout=compact&theme=vue-dark)-->
 
 
