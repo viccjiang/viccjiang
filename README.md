@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Visual Design
+- 🔭 My recent work is Visual Design
 - 🌱 I’m currently learning Front-end web development
 - ⚡ My favourite hobby is leather design
 
