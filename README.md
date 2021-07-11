@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact : Leather Design
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viccjiang&layout=compact&hide=htmltheme=vue-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viccjiang&layout=compact&hide=html&theme=vue-dark)
 
 
 
