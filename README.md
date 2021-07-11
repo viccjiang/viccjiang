@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Grapic Design
+- 🔭 I’m currently working on Visual Design
 - 🌱 I’m currently learning Front-end web development
 - ⚡ Fun fact : Leather Design
 
