@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Visual Design
 - 🌱 I’m currently learning Front-end web development
-- ⚡ Fun fact : Leather Design
+- ⚡ My favourite hobby is leather design
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viccjiang&layout=compact&theme=vue-dark)
